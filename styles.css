@@ -1,0 +1,73 @@
+/* Global styles */
+body {
+    background-image: url(download\ \(2\).jpg);
+    background-size:cover;
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F5F5; /* Light Gray */
+    color: #333; /* Dark Gray */
+}
+
+
+.container {
+    margin-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #D32F2F; /* Dark Red */
+    color: #FFF; /* White */
+}
+
+/* Homepage styles */
+/* styles.css */
+
+.jumbotron {
+    background-image: url(Food\ doodles\ 40\ elements.jpg);
+    background-size:cover;
+    background-position: center;
+    color: #FFF;
+    padding: 100px; /* Adjust padding as needed */
+    text-align: center;
+}
+
+
+/* Menu styles */
+.card {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    color: #333; /* Dark Gray */
+}
+
+.card-text {
+    color: #555; /* Dark Gray */
+}
+
+.btn-primary {
+    background-color: #D32F2F; /* Dark Red */
+    border-color: #D32F2F; /* Dark Red */
+}
+
+.btn-primary:hover {
+    background-color: #FF5733; /* Light Red */
+    border-color: #FF5733; /* Light Red */
+}
+
+/* About Us styles */
+/* Add styles as needed */
+
+/* Contact styles */
+/* Add styles as needed */
